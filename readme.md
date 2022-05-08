@@ -16,7 +16,7 @@ Only a few Unit tests are available, which use the [xUnit framework](https://xun
 5. You can now run the TvMaze.Api and TvMaze.Scraper projects.
 
 # Todo
- [] Implement [Serilog](https://serilog.net/) to enable structured logging.
- [] Add more unit tests
- [] Move hardcoded values (such as API endpoint URIs, time values, and constants) to the appsettings.json and create Option configuration classes.
- [] Fix all StyleCop warnings (mainly add more documentation to public classes, properties, and methods).
+- [ ] Implement [Serilog](https://serilog.net/) to enable structured logging.
+- [ ] Add more unit tests
+- [ ] Move hardcoded values (such as API endpoint URIs, time values, and constants) to the appsettings.json and create Option configuration classes.
+- [ ] Fix all StyleCop warnings (mainly add more documentation to public classes, properties, and methods).
